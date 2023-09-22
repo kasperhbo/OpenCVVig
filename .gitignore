@@ -237,3 +237,7 @@ fabric.properties
 
 # Android studio 3.1+ serialized cache file
 .idea/caches/build_file_checksums.ser
+
+assets/videos/Left.mp4
+
+assets/videos/Right.mp4
